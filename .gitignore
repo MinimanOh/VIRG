@@ -76,3 +76,5 @@ DerivedDataCache/*
 
 # Speechrecognition model
 Content/model/*.z*
+
+Plugins/*
