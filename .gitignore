@@ -75,4 +75,4 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 Speechrecognition model
-"Content/model/*.z*"
+Content/model/*.z*
